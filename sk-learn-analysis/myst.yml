@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/Auslum/sklearn-survey-report-2024
+  github: https://github.com/sklearn-survey-report-2024/sklearn-survey-report-2024
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
